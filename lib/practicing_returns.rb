@@ -8,5 +8,6 @@ def hello(array)
   end
 end
 
+binging.pry
 
 hello(["Tim", "Tom", "Jim"]) { |name| puts "Hi, #{name}" }
